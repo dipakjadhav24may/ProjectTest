@@ -72,7 +72,7 @@ public class TestController {
 	public String hello() {
 		//String str=configurationPropertiesFile.getText();
 		//System.out.println("Properties Text=="+str);
-		return "hello world";
+		return "hello world123";
 	}
 	
 	
